@@ -20,7 +20,7 @@ ASSUMPTIONS AND SIMPLIFICATIONS
 - Data check: all PEP inputs and all KO inputs were verified against the companies' 10-K filings, except KO FY2021 cash flow items (from a 10-K data summary). PEP interest is NET interest expense (not comparable to KO gross interest). Fiscal year-ends differ slightly (PEP: last Saturday of Dec; KO: Dec 31).
 - Divisions by zero or blank inputs return a blank cell rather than an error.
 
-AUTHOR
+AUTHOR:
 DHARSHINI S
 
 
